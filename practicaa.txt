@@ -1,1 +1,5 @@
+<<<<<<< 
 soy beatriz cardona----vvvvvvvv
+=======
+soy beatriz cardona<<<<<<<soy la otra modificaciondos
+>>>>>>
